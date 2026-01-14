@@ -1,0 +1,9 @@
+C:\Users\Duncan.Lewis.SCCTVET.000\AppData\Local\Temporary Projects\Snake.IO_WTF\bin\Release\Snake.IO_WTF.exe
+C:\Users\Duncan.Lewis.SCCTVET.000\AppData\Local\Temporary Projects\Snake.IO_WTF\bin\Release\Snake.IO_WTF.pdb
+C:\Users\Duncan.Lewis.SCCTVET.000\AppData\Local\Temporary Projects\Snake.IO_WTF\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Duncan.Lewis.SCCTVET.000\AppData\Local\Temporary Projects\Snake.IO_WTF\obj\Release\Snake.IO_WTF.exe
+C:\Users\Duncan.Lewis.SCCTVET.000\AppData\Local\Temporary Projects\Snake.IO_WTF\obj\Release\Snake.IO_WTF.pdb
+C:\Users\Duncan.Lewis.SCCTVET.000\Documents\Visual Studio 2008\Projects\Snake.IO_WTF\Snake.IO_WTF\obj\Release\Snake.IO_WTF.exe
+C:\Users\Duncan.Lewis.SCCTVET.000\Documents\Visual Studio 2008\Projects\Snake.IO_WTF\Snake.IO_WTF\obj\Release\Snake.IO_WTF.pdb
+C:\Users\steph\OneDrive\Documents\Visual Studio 2008\Projects\Snake.IO_WTF\Snake.IO_WTF\obj\Release\Snake.IO_WTF.exe
+C:\Users\steph\OneDrive\Documents\Visual Studio 2008\Projects\Snake.IO_WTF\Snake.IO_WTF\obj\Release\Snake.IO_WTF.pdb

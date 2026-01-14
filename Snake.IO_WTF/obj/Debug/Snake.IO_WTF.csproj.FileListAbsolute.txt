@@ -1,0 +1,5 @@
+C:\Users\steph\OneDrive\Documents\Visual Studio 2008\Projects\Snake.IO_WTF\Snake.IO_WTF\bin\Debug\Snake.IO_WTF.exe
+C:\Users\steph\OneDrive\Documents\Visual Studio 2008\Projects\Snake.IO_WTF\Snake.IO_WTF\bin\Debug\Snake.IO_WTF.pdb
+C:\Users\steph\OneDrive\Documents\Visual Studio 2008\Projects\Snake.IO_WTF\Snake.IO_WTF\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\steph\OneDrive\Documents\Visual Studio 2008\Projects\Snake.IO_WTF\Snake.IO_WTF\obj\Debug\Snake.IO_WTF.exe
+C:\Users\steph\OneDrive\Documents\Visual Studio 2008\Projects\Snake.IO_WTF\Snake.IO_WTF\obj\Debug\Snake.IO_WTF.pdb
